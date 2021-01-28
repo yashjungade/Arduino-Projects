@@ -1,3 +1,8 @@
+//Yash Jungade
+//Designed with the help of official examples of MQ Sensors.
+//This System detects surrounding pollution levels 
+
+
 #define         MQ_PIN                       (0)     //define which analog input channel you are going to use
 #define         RL_VALUE                     (5)     //define the load resistance on the board, in kilo ohms
 #define         RO_CLEAN_AIR_FACTOR          (9.83)  //RO_CLEAR_AIR_FACTOR=(Sensor resistance in clean air)/RO,
