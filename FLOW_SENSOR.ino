@@ -1,3 +1,11 @@
+//Yash Jungade
+//Designed with the help of official examples of Adafruit FlowSensor
+//Flow Sensor is used to measure amount of liquid flowing through it in milileter
+//Once the measured amount crosses set limit, electric valve stops the liquid flowing thorugh it.
+
+
+
+
 int sensorInterrupt = 0;  // interrupt 0
 int sensorPin       = 2; //Digital Pin 2
 int solenoidValve = 5; // Digital pin 5
