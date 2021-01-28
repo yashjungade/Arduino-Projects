@@ -1,4 +1,7 @@
-//Thermal Screening System by Yash Jungade, Kartik Bodhankar, Rugved Kharbade and Sumant Puranik.
+//Yash Jungade
+//Designed with the help of official examples of MLX Sensor.
+//This is touchless body temprature detector.
+
 #include <Wire.h>
 #include <Adafruit_MLX90614.h>
 #include <LiquidCrystal.h>
