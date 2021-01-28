@@ -1,3 +1,7 @@
+//Yash Jungade
+//Designed with the help of official examples of Motor Driver, Ultrasonic Sensor & Bluetooth Module.
+//Multimode Car has two modes. First mode is obstacle avoidance mode & second mode is mobile controlled mode.
+
 /* define section */
 
 //Motor driver setup L298N
